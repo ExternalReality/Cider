@@ -1,4 +1,3 @@
 # Cider
 
-Cider
-GO client
+Cider CI/CD aggregation tool.
